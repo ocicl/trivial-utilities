@@ -1,0 +1,10 @@
+* trivial-utilities
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-utilities.git   |
+| commit  | {"messa  |
+| systems | trivial-utilities |
+|---------+-------------------------------------------|
+
