@@ -1,10 +1,9 @@
 * trivial-utilities
 
+A collection of useful types, functions and macros for Common Lisp.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/ediethelm/trivial-utilities.git   |
-| commit  | {"messa  |
-| systems | trivial-utilities |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-utilities.git |
+| commit  | 279ff255562628196942632c543d91c357067221               |
+| systems | trivial-utilities                                      |
+|---------+--------------------------------------------------------|
